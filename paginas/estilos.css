@@ -1,0 +1,34 @@
+
+body {
+    background-color: #fdf6e3;
+    color: #7c2211;
+}
+
+.menu {
+    background-color: #7c2211;
+    padding: 12px;
+}
+
+.menu a {
+    color: #fff2e8;
+    text-decoration: none;
+}
+
+.producto {
+    background-color: #7c2211;
+}
+
+h1 {
+    color: #7c2211;
+}
+
+h2 {
+    color: #7c2211;
+}
+
+h3 {
+    color: #fdf6e3;
+}
+p {
+    color: #fdf6e3;
+}
